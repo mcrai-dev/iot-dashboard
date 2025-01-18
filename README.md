@@ -2,7 +2,7 @@
 
 This project is an IoT dashboard that allows visualization and analysis of data from various connected devices.
 
-![screenshot](image.jpeg)
+![screenshot](image.png)
 
 ## Features
 
